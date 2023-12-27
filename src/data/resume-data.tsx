@@ -20,10 +20,10 @@ import { LinkedInIcon } from "@/components/icons/LinkedInIcon";
 import { XIcon } from "@/components/icons/XIcon";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
+  name: "Mlamali SAID SALIMO",
   initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  location: "Eaubonne, France, CET",
+  locationLink: "https://www.google.com/maps/place/Eaubonne",
   about:
     "Full Stack Engineer focused on building products with extra attention to details",
   summary:
